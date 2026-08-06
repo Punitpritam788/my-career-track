@@ -6,12 +6,6 @@ Repository description
 
 > An interactive storytelling portfolio that blends cinematic design, immersive animations, and modern web development to showcase my journey, projects, skills, and creative process. Built with HTML, Tailwind CSS, JavaScript, GSAP, and smooth scroll experiences inspired by real-world narratives.
 
-Repository metadata
-
-- Repo: Punitpritam788/my-career-track
-- Repo ID: 1324743775
-- Languages: HTML (100%)
-
 Tech stack
 
 This site is built with static HTML and enhanced with:
@@ -22,9 +16,8 @@ This site is built with static HTML and enhanced with:
 - Tone.js for cinematic sound design
 - Modern web fonts (Inter, DM Mono, Schoolbell, etc.)
 
-Live demos
+Live demo
 
-- Primary site: https://punitpm.dev
 - GitHub Pages demo: https://punitpritam788.github.io/my-career-track/
 
 Highlights
@@ -46,7 +39,3 @@ Credits
 - Design & inspiration: Thank you to Bajkamal Singh (Baaz) — this site's design and interactions were inspired by his work:
   - https://bajkamalsingh.me/
   - https://www.linkedin.com/in/bajkamalsingh/
-
-Contact
-
-- Punit Pritam Mohanty — Portfolio: https://punitpm.dev
