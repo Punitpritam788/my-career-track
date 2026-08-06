@@ -23,12 +23,6 @@ Live demo
 
 - GitHub Pages demo: https://punitpritam788.github.io/my-career-track/
 
-Screenshot
-
-![Screenshot placeholder](https://via.placeholder.com/1200x630.png?text=my-career-track+preview)
-
-*(Replace the image above with a screenshot of your site by adding a file like `assets/screenshot.png` and updating the path if you prefer.)*
-
 Highlights
 
 - Cinematic, scroll-driven storytelling layout
