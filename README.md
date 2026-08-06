@@ -1,5 +1,8 @@
 # my-career-track
 
+[![GitHub Pages](https://img.shields.io/website?up_message=live&url=https%3A%2F%2Fpunitpritam788.github.io%2Fmy-career-track%2F)](https://punitpritam788.github.io/my-career-track/)
+[![Language: HTML](https://img.shields.io/badge/language-HTML-orange?logo=html5)](https://github.com/Punitpritam788/my-career-track)
+
 An interactive storytelling portfolio by Punit Pritam Mohanty that blends cinematic design, immersive animations, and modern web development to showcase my journey, projects, skills, and creative process.
 
 Repository description
@@ -19,6 +22,12 @@ This site is built with static HTML and enhanced with:
 Live demo
 
 - GitHub Pages demo: https://punitpritam788.github.io/my-career-track/
+
+Screenshot
+
+![Screenshot placeholder](https://via.placeholder.com/1200x630.png?text=my-career-track+preview)
+
+*(Replace the image above with a screenshot of your site by adding a file like `assets/screenshot.png` and updating the path if you prefer.)*
 
 Highlights
 
