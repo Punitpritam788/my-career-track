@@ -6,7 +6,8 @@ This site is built with HTML and enhanced with Tailwind CSS, GSAP (ScrollTrigger
 
 Live demo
 
-- View the site: https://punitpm.dev
+- View the site (primary): https://punitpm.dev
+- View the GitHub Pages demo: https://punitpritam788.github.io/my-career-track/
 
 Highlights
 
